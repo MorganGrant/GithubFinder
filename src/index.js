@@ -6,7 +6,7 @@ import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <App title = "The Github Card Finder" />
   </React.StrictMode>,
   document.getElementById('root')
 );
